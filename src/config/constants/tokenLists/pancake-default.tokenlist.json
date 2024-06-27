@@ -1,0 +1,62 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBBC Token",
+      "symbol": "WBBC",
+      "address": "0x35d04AA7c2205CBf11b040e0243BF896Dd2a4FFb",
+      "chainId": 1978,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0x35d04AA7c2205CBf11b040e0243BF896Dd2a4FFb.png"
+    },
+    {
+      "name": "GUSD Token",
+      "symbol": "GUSD",
+      "address": "0xB261D56b2b7E520544cf1624dCD379C8C1390E46",
+      "chainId": 1978,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0xB261D56b2b7E520544cf1624dCD379C8C1390E46.png"
+    },
+    {
+      "name": "FLAMEZ Token",
+      "symbol": "AME",
+      "address": "0x05c86418c11d610d28268e0C2aF2C2386fB38FDd",
+      "chainId": 1978,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0x05c86418c11d610d28268e0C2aF2C2386fB38FDd.png"
+    },
+    {
+      "name": "ButaneDao Token",
+      "symbol": "veGAS",
+      "address": "0x1b801F64d0f93C37CDDFE34e62F60722b9af670e",
+      "chainId": 1978,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0x1b801F64d0f93C37CDDFE34e62F60722b9af670e.png"
+    },
+    {
+      "name": "FBX Token",
+      "symbol": "FBX",
+      "address": "0x7Ae4C9Be5053603c980b7101858e234594C77dB5",
+      "chainId": 1978,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0x7Ae4C9Be5053603c980b7101858e234594C77dB5.png"
+    },
+    {
+      "name": "FLP Token",
+      "symbol": "FLP",
+      "address": "0xd4835453BD71dBfE1ff0f4530c61966B6A26BB9E",
+      "chainId": 1978,
+      "decimals": 18,
+      "logoURI": "/images/tokens/0xd4835453BD71dBfE1ff0f4530c61966B6A26BB9E.png"
+    }
+  ]
+}
